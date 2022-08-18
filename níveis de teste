@@ -1,0 +1,10 @@
+Níveis de teste: Unitário, sistema, integração e aceitação.
+
+Unitário: testa uma pequena unidade do código, isolada do restante do sistema.
+
+Sistema: Analisa todo o comportamento do sistema e as tarefas por ele realizadas de ponta a ponta.
+
+Integração: Analisa a interação de diferentes componentes entre eles.
+
+Aceitação: Avalia a situação do sistema, se ele está pronto para utilização do usuário. 
+Teste de aceitação de utilizador, Teste de aceitação operacional, Teste de aceitação contratual e de regulamentação e Teste Alfa e Beta.
