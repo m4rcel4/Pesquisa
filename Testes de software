@@ -1,0 +1,10 @@
+ Testes de software: Conceitos, caso, defeito, falha, teste estático, teste dinâmico e critério de aceitação, artefatos de testes.
+
+  Tem o objetivo de encontrar falhas ou bugs e resolve-los para atingir a qualidade desejada, ao final do projeto.
+
+  Teste dinâmico: cohecido como "caixa preta". Analisa o comportamento do programa: a performance, a adaptabilidade em diferentes ambientes e o tempo de resposta. 
+
+  Teste estático: Analisa o código sem executar o programa. Conhecido como "white box"
+  Principal objetivo é identificar erros mais comuns como: erros de sintaxe e falhas de segurança.
+
+  
