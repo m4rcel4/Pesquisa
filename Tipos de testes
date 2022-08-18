@@ -1,0 +1,6 @@
+Tipos de teste: Funcional, regressão, desempenho, aceitação, smoketest, exploratório, confirmação, estresse, carga, volume, recuperação, segurança. Manual e automatizado.
+
+Funcional: Determina se o software está fazendo o que foi programado para fazer.
+
+Regressão: Roda os testes anteriormentes realizados, unificando-o com as atualizações realizadas no software.
+
