@@ -4,3 +4,28 @@ Funcional: Determina se o software está fazendo o que foi programado para fazer
 
 Regressão: Roda os testes anteriormentes realizados, unificando-o com as atualizações realizadas no software.
 
+Teste de desempenho: Tem o objetivo de avaliar a velocidade de processamento, velocidade de transferência de dados, a utilização de memória, estabilidade em momentos de pico de uso simultâneo do software, entre outros.
+
+Teste de aceitação: o cliente sempre tem contato com o desenvolvimento do software, assim o produto sempre está em estado aceitável, sem insatisfações ao final do longo projeto.
+Teste de aceitação de usuário
+Teste de aceitação operacional
+Teste de aceitação Alpha e Beta
+Teste de aceitação contratual
+
+Smoke test: Teste realizado de forma rápida para testar se o programa está pronto para novos testes ou verificar se as alterações anteriores estão certas. Mini e rápido teste de aceitação. 
+
+Teste de exploração: o desenvolvedor deve ter a curiosidade e criatividade para explorar o sistema e encontrar erros. O desenvolvedor deve estudar, analisar e investigar.
+
+Teste de segurança: teste com o objetivo de analisar as possíveis vulnerabilidades do software, verificar se ele possui proteção à ataques diversos, como hackers.
+
+Teste de volume: Verificação da capacidade de dados aceita pelo sistema, se ele é capaz de rodar os dados. Para verificação: Bugzilla, Apache JMater e Push Test Maker.
+
+Teste de estresse: busca rotas imprevisíveis que o usuário pode fazer e toma precauções em relação a esse estresse no programa.
+
+Teste de carga; envolve um conjunto de testes como: a carga suportada, teste de estresse, teste de volume, escalabilidade, entre outros tipos.
+
+Teste de recuperação: Simula a falha do sistema e analisa a capacidade dele de recuperação. Garante que o sistema seja tolerante a falhas e possa se recuperar completamente em um período específico. Falhas como: falha na fonte de alimentação, perda de sinal da rede sem fio, dispositivo externo não está respondendo, entre outros.
+
+Teste manual: Executado por um ser humano. Podendo ter diferentes perspectivas da resolução do problema.
+Teste automatizado:  São pré-programados, ajudam a determinar se o desempenho real está de acordo com o esperado.
+
