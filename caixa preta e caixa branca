@@ -1,0 +1,6 @@
+Técnicas de modelagem de teste: Caixa branca e caixa preta.
+
+Caixa branca: Testa o código interno do programa, verificando o funcionamneto da lógica.
+
+
+Caixa preta: É testada a perspectiva final do usuário, sem acesso ao funcionamento interno e ao código.
