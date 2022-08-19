@@ -1,0 +1,15 @@
+Gestão de defeitos: Causas, ciclo de vida, consequência, regra 10 de Myers.
+
+tem o objetivo de definir práticas para prevenir os defeitos e minimizar os riscos de um projeto.
+
+Defeito (Fault): Passo, processo ou definição de dados incorretos. 
+Engano (Mistake): Ação humana que produz um resultado incorreto.
+Falha (Failure): Desvio entre o resultado/comportamento apresentado pela aplicação em relação aos requisitos.
+
+
+Ciclo de vida:  https://www.devmedia.com.br/imagens/engsoft/artigo8/image02.jpg
+
+Regra de 10 de Myers: Um defeito encontrado em produção custa muito mais do que se fosse encontrado na fase de análise ou em modelos de dados.
+A regra 10 de Myers indica que o custo da correção dos defeitos tende a ser cada vez maior quanto mais tarde ele for descoberto”. A cada fase, o custo da correção é multiplicado dez vezes. Exemplo: Se o defeito for encontrado na primeira fase, ele gera 1x de gasto em relaçãoà correção. Se for encontrado na próxima fase, já fica10x, na outra fase 100x e assim sucessivamente
+
+http://1.bp.blogspot.com/-JiJxvjYuZtg/TzZjpkZIn1I/AAAAAAAAAIg/mnQOPY3bfPg/s1600/10myers.jpg
