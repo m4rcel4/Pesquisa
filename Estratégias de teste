@@ -1,0 +1,11 @@
+Estratégias de teste: Preventiva e reativa.
+
+Preventiva: Manutenção realizada antes que uma falha ocorra, feita regularmente durante o funcionamneto, evitando riscos.
+Etapas:
+Manutenção de Encontro de Falha 
+Manutenção Baseada em Risco 
+Manutenção Baseada em Condições
+Manutenção Preditiva 
+
+Reativa: Ou corretiva, essa manutenção é feita após um erro, visando o reestabelecimento do sistema.
+Etapas: Manutenção Corretiva Adiada eManutenção de Emergência.
