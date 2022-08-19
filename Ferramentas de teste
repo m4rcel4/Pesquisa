@@ -1,0 +1,15 @@
+Ferramentas de testes: Mantis, TestLink, JUnit, Selenium.
+
+Um software de bug tracking tem como objetivo principal, ajudar a equipe de Teste e a de Desenvolvimento a manterem um histórico dos bugs do sistema. Nela estarão todos os dados do bug encontrado, facilitando o gerenciamento dos bugs.
+
+Mantis: Ferramenta de código aberto, número ilimitado de usuários, controle de tempo, relatórios e gráficos.
+
+
+TestLink:  possibilita que equipes de teste trabalhem de forma sincronizada.
+Permite a integração com diversas ferramentas de rastreamento de defeitos como JIRA, MANTIS, BUGZILLA, TRAC, etc.
+
+
+Selenium:Ela avalia a performance da aplicação em diferentes navegadores e plataformas, como Windows, Mac e Linux. Além disso, é compatível com muitas linguagens, como Java, PHP, C#, Python, Groovy, Ruby, dentre outras.
+
+
+JUnit: A partir de anotações e algumas declarações, avalia classes e métodos para saber se eles apresentam o comportamento desejado. Com o JUnit, também evitamos aquela prática tão comum de criar um método main() em qualquer lugar do projeto, apenas para saber se um certo trecho código está correto.
