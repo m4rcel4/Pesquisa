@@ -1,0 +1,15 @@
+Plano de teste: Elaboração, especificações, tipos de teste a serem executados no procedimento, registros de teste.
+
+Trata-se de uma prática regular na engenharia de software e ajuda na elaboração de um plano de teste, na definição dos itens que devem compor esse plano e justifica sua necessidade num processo de desenvolvimento de software.
+
+1. Introdução
+    Contém uma identificação do projeto, descrição dos objetivos do documento, o público ao qual ele se destina e escopo do projeto a ser desenvolvido. Pode adicionalmente conter termos e abreviações usadas, além de informar como o plano deve evoluir.
+
+2. Requisitos a serem testados
+    Esta seção descreve em linhas gerais o conjunto de requisitos a serem testados no projeto a ser desenvolvido, comunicando o que deve ser verificado. Exemplos de requisitos a serem testados são: desempenho, segurança, interface de usuário, controle de acesso, funcionalidades.
+
+3. Estratégias e ferramentas de teste
+    Apresenta um conjunto de tipos de testes a serem realizados, respectivas técnicas empregadas e critério de finalização de teste. Além disso, é listado o conjunto de ferramentas utilizadas.
+
+4. Cronograma de atividades
+    Contém uma descrição de marcos importantes (milestones) das atividades (incluindo as datas de início e fim da atividade). Apenas marcos relevantes devem ser listados, ou seja, aqueles que contribuirão nas atividades de testes. Por exemplo: projeto de testes, execução de testes ou avaliação de testes.
